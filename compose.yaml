@@ -1,0 +1,5 @@
+services:
+  website:
+    image: meri-website:v1
+    ports:
+      - "8086:80" 
